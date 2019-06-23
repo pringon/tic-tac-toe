@@ -12,3 +12,7 @@
 - React as a front-end framework.
 - Redux for state management.
 - Typescript to provide typing to the whole app.
+
+## Usage
+- If you have docker installed just run `docker-compose up`
+- You will then be able to see the app at `http://localhost:3000/`

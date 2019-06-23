@@ -1,0 +1,6 @@
+[submodule "engine"]
+	path = engine
+	url = git@github.com:pringon/ttt-engine.git
+[submodule "client"]
+	path = client
+	url = git@github.com:pringon/ttt-client.git
